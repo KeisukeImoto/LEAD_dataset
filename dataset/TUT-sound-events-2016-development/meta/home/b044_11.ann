@@ -1,0 +1,25 @@
+0.000000	4.210775	(object) clacking	4	5
+4.582314	8.297704	(object) rustling	4	5
+8.173858	11.146170	cutlery	4	5
+11.393863	18.329258	(object) rustling	4	5
+17.586180	19.939260	(object) clacking	4	5
+18.576950	25.388499	(object) rustling	5	5
+24.150035	25.760038	water	5	5
+24.645421	46.194683	washing dishes	4	5
+38.763903	41.736215	(object) rustling	4	4
+47.804685	59.941626	washing dishes	5	5
+57.960085	61.799321	water	5	5
+61.923167	131.400961	washing dishes	4	5
+66.629328	68.858562	(object) rustling	4	4
+70.840103	76.784728	(object) rustling	4	4
+77.403959	78.890115	(object) impact	4	5
+94.618600	96.228602	(object) impact	4	5
+122.979410	128.924034	(object) rustling	4	4
+131.277115	140.317897	(object) clacking	3	4
+139.946358	161.743313	washing dishes	4	5
+149.358680	151.216375	(object) impact	4	5
+156.294074	157.780230	(object) impact	4	5
+160.133311	161.743313	(object) impact	4	4
+163.724854	171.155635	(object) clacking	4	4
+165.582549	167.687937	(object) rustling	4	5
+171.898713	182.177958	washing dishes	4	5

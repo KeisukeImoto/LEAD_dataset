@@ -1,0 +1,39 @@
+0.000000	242.979396	people walking	5	5
+2.642876	8.919706	(object) rustling	4	5
+6.937549	10.901863	drawer	5	5
+10.901863	18.169771	(object) rustling	5	5
+16.517974	18.665310	cutlery	5	5
+19.491209	21.803726	(object) clacking	5	5
+23.290343	26.428758	(object) clacking	4	5
+25.933219	29.401994	(object) clacking	5	5
+29.071634	34.522565	(object) rustling	5	5
+35.348464	39.147598	(object) rustling	4	5
+38.982418	40.964575	(object) impact	5	5
+41.625294	44.598529	drawer	5	5
+44.598529	47.076226	cutlery	5	5
+46.250327	48.397663	(object) impact	5	5
+54.509314	59.629886	(object) clacking	5	5
+59.629886	64.254918	(object) rustling	5	5
+63.759379	67.062974	cutlery	5	5
+67.062974	71.522827	(object) clacking	5	5
+70.862108	73.670164	(object) impact	4	5
+74.330882	82.259510	(object) rustling	5	5
+82.259510	84.902386	(object) impact	5	5
+84.737206	108.192729	(object) clacking	5	5
+90.022958	95.969428	(object) jingling	5	5
+107.697190	117.277615	(object) rustling	5	5
+115.956177	121.076749	(object) clacking	5	5
+120.416030	126.858039	(object) rustling	5	5
+128.509837	131.152713	(object) snapping	4	5
+130.491994	133.795588	(object) impact	4	4
+132.804510	149.983203	(object) clacking	4	5
+151.965360	155.268955	(object) impact	5	5
+158.902909	166.170817	(object) clacking	5	5
+171.952108	179.220017	(object) rustling	5	5
+181.036994	184.340589	(object) impact	5	5
+183.845049	187.974543	(object) clacking	5	5
+190.947778	197.059428	(object) rustling	5	5
+202.510360	210.934526	(object) rustling	5	5
+211.595245	217.046177	(object) rustling	4	4
+216.220278	238.519543	cutlery	4	4
+239.840981	242.979396	(object) clacking	4	4

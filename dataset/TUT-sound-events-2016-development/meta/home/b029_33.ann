@@ -1,0 +1,36 @@
+0.000000	5.932690	(object) clacking	4	4
+0.000000	242.416313	fan	4	4
+2.142360	5.603096	(object) rustling	4	3
+6.921472	8.899035	(object) rustling	4	4
+8.899035	12.524568	(object) clacking	4	4
+11.370990	14.007741	(object) rustling	4	4
+15.161319	20.434822	(object) rustling	4	3
+20.434822	24.389949	(object) clacking	4	4
+24.060355	27.026700	(object) rustling	4	4
+29.828248	32.794593	(object) clacking	4	4
+35.596141	38.232892	(object) clacking	4	4
+41.199237	49.439085	(object) clacking	4	4
+46.967131	51.581445	(object) rustling	4	4
+53.394212	57.349338	(object) rustling	4	4
+57.514135	66.083577	people walking	4	3
+63.611622	68.225937	(object) clacking	4	4
+68.061140	74.158627	people walking	4	4
+72.016267	75.971394	(object) rustling	4	4
+74.817815	83.387256	people walking	4	3
+80.091317	89.155150	(object) clacking	3	4
+87.836774	89.155150	(object) impact	4	4
+92.286292	96.241418	(object) rustling	4	4
+96.900606	103.492484	(object) clacking	4	4
+99.866951	106.129235	(object) rustling	3	3
+104.810860	109.095580	(object) clacking	4	4
+107.118017	117.005834	people walking	4	4
+117.994616	120.301773	(object) impact	4	4
+118.983397	121.620149	people walking	4	4
+120.796164	123.268118	drawer	4	4
+120.796164	130.024793	(object) clacking	3	4
+129.859996	138.594234	people walking	4	4
+147.822864	162.324995	(object) clacking	4	4
+162.984183	174.684766	(object) rustling	4	3
+174.190375	179.958269	(object) clacking	4	4
+209.951313	219.509537	(object) rustling	4	4
+229.562150	233.682074	(object) rustling	4	4

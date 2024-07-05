@@ -1,0 +1,34 @@
+0.000000	1.426290	people speaking	4	4
+1.248004	4.278871	(object) clacking	4	4
+3.922298	9.627459	(object) rustling	4	4
+9.449173	10.697176	(object) clacking	4	4
+10.697176	13.906329	people walking	5	4
+13.728043	15.689192	(object) impact	4	4
+15.689192	110.180917	water	4	4
+17.293769	19.433204	(object) clacking	4	4
+22.820643	25.851510	(object) clacking	4	4
+28.347518	30.308667	(object) impact	4	4
+31.556670	34.230965	(object) impact	4	4
+42.253847	43.858423	(object) impact	4	4
+44.393282	49.028725	(object) clacking	5	5
+50.989874	57.408180	(object) rustling	4	4
+59.369329	64.717917	(object) clacking	4	4
+67.035639	75.236808	(object) clacking	4	4
+77.732815	84.685980	(object) clacking	4	4
+89.499709	109.824345	(object) clacking	4	4
+111.072349	118.916945	(object) clacking	4	4
+114.459788	117.490654	water	4	4
+118.560372	121.234666	people walking	4	4
+121.056380	124.087247	cupboard	4	4
+124.087247	127.652972	(object) rustling	4	4
+127.474686	129.257548	(object) impact	4	4
+129.079262	131.218698	people walking	4	4
+130.862125	136.923858	(object) clacking	4	4
+136.388999	144.768454	(object) rustling	4	2
+144.768454	150.651901	(object) clacking	4	4
+150.117043	156.713635	(object) rustling	4	4
+156.178776	159.031356	(object) clacking	4	4
+159.031356	181.138854	people walking	4	4
+160.457646	174.898835	(object) clacking	4	4
+164.914803	169.193674	(object) rustling	4	4
+176.325125	179.890850	(object) clacking	4	4
