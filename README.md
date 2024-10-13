@@ -27,12 +27,13 @@ event_start_time	event_end_time	event_label	 CS for selecting sound events  CS f
 7.616967      44.334651      people walking     4       4
 ```
 
-Note that sound files of the TUT Sound Events 2016/2017 and TUT Acoustic Scenes 2016/2017 are not included in this metadata. Please download them from the DCASE Challenge Web page (or directly Zenodo).
+Note that sound files of the TUT Sound Events 2016/2017, TUT Acoustic Scenes 2016, and URBAN-SED are not included in this dataset. Please download them from the DCASE Challenge Web page (or directly Zenodo).
 
 
-## What are TUT Sound Events 2016/2017 & TUT Acoustic Scenes 2016/2017?
+## Download link for audio data of TUT Sound Events 2016/2017, TUT Acoustic Scenes 2016, and URBAN-SED
 
-TUT Sound Events 2016/2017 & Acoustic Scenes 2016/2017 are environmental sound datasets for SED and ASC, which were originally recorded by Tampere University, Audio Research Group [2] and [3]. 
+TUT Sound Events 2016 Development Set: https://zenodo.org/records/45759
+
 
 
 
