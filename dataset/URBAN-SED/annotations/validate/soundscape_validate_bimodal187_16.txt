@@ -1,0 +1,2 @@
+2.195414	3.643327	children_playing	4	4
+3.643327	6.662757	engine_idling	4	4

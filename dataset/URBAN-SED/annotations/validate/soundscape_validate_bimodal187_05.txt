@@ -1,0 +1,2 @@
+1.737995	6.777307	children_playing	4	4
+3.676864	6.768573	drilling	3	3

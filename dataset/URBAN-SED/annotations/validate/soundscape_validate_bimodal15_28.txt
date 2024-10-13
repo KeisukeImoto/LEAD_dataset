@@ -1,0 +1,3 @@
+3.102432	5.173176	drilling	5	5
+5.195284	5.836404	children_playing	5	5
+5.792189	10.000000	street_music	5	5

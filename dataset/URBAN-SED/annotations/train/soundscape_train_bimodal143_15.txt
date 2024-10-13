@@ -1,0 +1,4 @@
+1.330194	2.619188	engine_idling	4	4
+2.613302	4.043555	jackhammer	4	4
+4.031783	6.056504	engine_idling	4	4
+6.162448	8.869923	street_music	1	1

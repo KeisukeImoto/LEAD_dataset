@@ -1,0 +1,6 @@
+0.732486	1.038219	dog_bark	4	4
+1.694271	2.025482	dog_bark	4	4
+2.019112	2.872617	children_playing	4	4
+2.649687	5.503196	air_conditioner	4	4
+6.146510	7.859889	jackhammer	4	4
+6.942690	10.000021	engine_idling	4	4

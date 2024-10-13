@@ -1,0 +1,5 @@
+1.414013	7.337580	children_playing	4	3
+1.426752	4.853503	air_conditioner	4	4
+4.834395	6.095541	drilling	4	4
+7.286624	10.000000	drilling	4	4
+8.464968	10.000000	dog_bark	4	4

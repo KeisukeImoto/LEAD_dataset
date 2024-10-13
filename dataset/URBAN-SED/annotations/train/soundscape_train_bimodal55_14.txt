@@ -1,0 +1,5 @@
+0.061183	2.365738	drilling	4	4
+1.753909	4.010877	engine_idling	4	4
+2.161795	3.494222	street_music	4	4
+4.541128	6.179470	engine_idling	4	4
+6.172672	6.968049	drilling	4	4

@@ -1,0 +1,7 @@
+0.904147	1.862678	street_music	5	5
+2.114208	2.800816	street_music	5	5
+2.936778	5.050986	children_playing	5	5
+3.766145	4.405167	air_conditioner	5	5
+5.397689	7.171992	children_playing	5	5
+6.138681	8.477226	engine_idling	5	5
+8.477226	10.000000	car_horn	5	5

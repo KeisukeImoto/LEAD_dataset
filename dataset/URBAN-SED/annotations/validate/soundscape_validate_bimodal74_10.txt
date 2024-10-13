@@ -1,0 +1,5 @@
+1.982343	3.073836	street_music	4	4
+2.985554	4.028892	drilling	4	4
+3.988764	6.219904	street_music	4	3
+5.072231	8.563403	engine_idling	4	4
+6.388443	7.825040	car_horn	4	3

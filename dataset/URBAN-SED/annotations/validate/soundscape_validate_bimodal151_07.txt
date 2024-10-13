@@ -1,0 +1,5 @@
+1.108280	3.082803	street_music	4	4
+2.910828	3.821656	jackhammer	4	4
+3.726115	4.796178	drilling	4	4
+3.757962	8.121019	air_conditioner	3	4
+8.082803	8.598726	gun_shot	4	4

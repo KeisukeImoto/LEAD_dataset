@@ -1,0 +1,2 @@
+4.842520	6.427165	air_conditioner	3	4
+7.952756	9.566929	air_conditioner	3	4

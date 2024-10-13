@@ -1,0 +1,5 @@
+1.928000	3.296000	street_music	4	4
+3.008000	4.056000	drilling	4	4
+4.008000	6.440000	street_music	4	2
+5.008000	8.584000	engine_idling	4	4
+6.528000	7.616000	car_horn	4	3

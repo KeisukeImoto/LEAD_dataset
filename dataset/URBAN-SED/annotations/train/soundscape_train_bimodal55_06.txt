@@ -1,0 +1,4 @@
+0.039370	2.283465	drilling	4	4
+2.273622	4.064961	engine_idling	4	4
+4.557087	6.013780	engine_idling	4	4
+5.984252	7.007874	drilling	4	4

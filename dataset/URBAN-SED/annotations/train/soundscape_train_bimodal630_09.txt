@@ -1,0 +1,6 @@
+0.435550	4.638022	street_music	4	4
+1.330194	2.854620	engine_idling	4	4
+2.854620	3.407887	dog_bark	4	4
+3.402001	6.456739	engine_idling	4	4
+6.433196	8.087110	siren	4	4
+6.433196	8.357858	children_playing	4	4

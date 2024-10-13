@@ -1,0 +1,2 @@
+4.793307	6.456693	engine_idling	4	4
+7.982283	9.527559	engine_idling	4	4

@@ -1,0 +1,3 @@
+3.078281	5.191289	drilling	4	4
+5.179517	5.809300	children_playing	4	4
+5.797528	10.000000	street_music	4	4

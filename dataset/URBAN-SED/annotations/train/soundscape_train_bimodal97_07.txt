@@ -1,0 +1,5 @@
+0.859873	3.643312	air_conditioner	4	4
+4.796178	5.273885	air_conditioner	4	4
+5.191083	5.732484	gun_shot	4	4
+6.127389	8.547771	children_playing	4	4
+6.732484	6.891720	gun_shot	4	4

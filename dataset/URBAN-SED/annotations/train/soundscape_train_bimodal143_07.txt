@@ -1,0 +1,7 @@
+1.324841	2.630573	engine_idling	4	4
+2.630573	4.076433	jackhammer	4	4
+4.000000	4.878981	engine_idling	4	4
+4.898089	5.828025	engine_idling	4	4
+6.248408	8.828025	air_conditioner	4	4
+6.719745	7.044586	gun_shot	4	4
+8.191083	8.592357	dog_bark	3	4

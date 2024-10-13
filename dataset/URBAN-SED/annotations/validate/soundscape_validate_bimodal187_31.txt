@@ -1,0 +1,3 @@
+2.121414	4.490871	children_playing	4	4
+3.648833	6.684087	engine_idling	2	4
+5.483040	6.070509	drilling	4	4

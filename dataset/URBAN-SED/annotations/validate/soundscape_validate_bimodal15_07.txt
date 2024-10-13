@@ -1,0 +1,5 @@
+3.082803	5.184713	drilling	4	4
+5.159236	5.433121	children_playing	3	4
+5.216561	6.343949	air_conditioner	4	4
+5.732484	7.872611	street_music	4	4
+8.229299	10.000000	street_music	4	4

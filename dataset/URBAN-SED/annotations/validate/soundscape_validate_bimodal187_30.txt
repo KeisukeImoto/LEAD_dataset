@@ -1,0 +1,2 @@
+2.104004	6.744014	children_playing	4	4
+3.656008	6.736014	drilling	4	4

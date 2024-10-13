@@ -1,0 +1,5 @@
+1.301075	2.838710	children_playing	2	4
+2.419355	5.763441	engine_idling	4	4
+5.075269	6.741935	street_music	4	4
+7.580645	8.086022	dog_bark	4	4
+8.494624	8.870968	dog_bark	4	4

@@ -1,0 +1,5 @@
+0.512066	1.082990	gun_shot	4	4
+1.077104	3.372572	jackhammer	4	4
+3.837552	5.773985	air_conditioner	4	4
+6.362566	7.186580	gun_shot	4	4
+7.174809	10.000000	engine_idling	4	4

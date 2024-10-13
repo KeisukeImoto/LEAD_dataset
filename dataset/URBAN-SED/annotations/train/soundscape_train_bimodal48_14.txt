@@ -1,0 +1,5 @@
+1.312033	4.255608	drilling	4	4
+2.909585	4.228416	jackhammer	4	4
+4.303195	6.390211	air_conditioner	4	4
+6.641740	8.225697	engine_idling	4	4
+8.218899	10.000000	dog_bark	4	4

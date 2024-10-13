@@ -1,0 +1,3 @@
+3.378458	4.290759	gun_shot	5	5
+5.420836	10.000000	children_playing	5	5
+7.115951	10.000000	air_conditioner	5	5

@@ -1,0 +1,21 @@
+0.330275	0.743120	(object) snapping	4	4
+0.715597	1.321102	(object) rustling	3	3
+1.310045	1.860263	(object) clacking	4	4
+2.146791	2.669727	(object) clacking	3	3
+3.055048	3.550461	(object) rustling	3	3
+3.720527	5.842799	(object) clacking	4	4
+4.678903	9.605512	(object) rustling	2	3
+7.486244	9.605512	cup	1	2
+9.192667	12.275239	water	3	3
+12.275239	13.954139	(object) clacking	3	3
+13.623864	15.027534	fan	1	3
+16.073407	16.926618	water	1	3
+17.229371	17.504600	drawer	1	3
+20.174327	20.807355	(object) clacking	4	4
+20.944970	21.302768	(object) rustling	2	3
+21.698304	22.061151	(object) impact	3	3
+22.266072	22.541301	(object) clacking	3	4
+23.647747	26.406172	(object) clacking	3	3
+26.368433	27.694342	(object) impact	4	4
+28.100939	29.559655	(object) rustling	3	3
+29.532132	30.000023	water	3	3

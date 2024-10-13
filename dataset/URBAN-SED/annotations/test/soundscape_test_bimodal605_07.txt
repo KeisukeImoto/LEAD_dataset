@@ -1,0 +1,6 @@
+3.191083	4.108280	drilling	4	4
+3.267516	4.095541	children_playing	4	4
+4.834395	5.025478	street_music	4	4
+4.955414	6.235669	children_playing	4	4
+5.006369	6.987261	drilling	4	4
+6.885350	10.000000	engine_idling	4	4

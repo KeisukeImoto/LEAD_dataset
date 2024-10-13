@@ -1,0 +1,5 @@
+3.612205	5.295276	drilling	4	4
+4.015748	4.862205	air_conditioner	4	4
+5.275591	5.669291	gun_shot	4	4
+6.171260	8.553150	children_playing	4	4
+6.742126	6.919291	jackhammer	4	4

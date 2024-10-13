@@ -1,0 +1,5 @@
+1.465568	6.074161	engine_idling	4	4
+2.160094	7.333726	children_playing	4	4
+4.844026	5.679812	drilling	4	4
+7.339612	10.000000	drilling	4	4
+8.569747	10.000000	dog_bark	4	4

@@ -1,0 +1,6 @@
+1.135962	2.931136	street_music	4	4
+2.931136	4.773396	engine_idling	4	4
+4.755739	7.951736	drilling	4	4
+5.462036	6.609770	street_music	4	4
+7.945851	8.263685	gun_shot	4	4
+8.257799	10.000000	air_conditioner	4	4

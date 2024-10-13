@@ -1,0 +1,7 @@
+0.917197	1.898089	street_music	4	4
+2.146497	2.828025	street_music	3	4
+2.891720	4.993631	children_playing	4	4
+3.764331	4.388535	jackhammer	4	4
+5.343949	7.407643	street_music	4	4
+5.987261	8.509554	jackhammer	4	4
+8.484076	10.000000	car_horn	4	4

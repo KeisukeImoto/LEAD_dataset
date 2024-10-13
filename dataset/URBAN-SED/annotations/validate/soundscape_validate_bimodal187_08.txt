@@ -1,0 +1,3 @@
+2.096461	4.340560	children_playing	4	4
+3.631897	6.633872	air_conditioner	3	4
+5.501980	6.063005	drilling	4	4

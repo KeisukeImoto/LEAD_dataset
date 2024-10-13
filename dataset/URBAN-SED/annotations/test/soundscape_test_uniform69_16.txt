@@ -1,0 +1,3 @@
+0.570924	2.389641	engine_idling	4	4
+4.296645	5.567981	engine_idling	4	4
+6.203649	8.652148	jackhammer	4	4

@@ -1,0 +1,7 @@
+0.729843	1.059449	dog_bark	4	4
+1.753977	2.301359	dog_bark	4	4
+2.036496	2.395532	siren	4	4
+2.389646	3.454981	children_playing	4	4
+3.466752	5.385532	engine_idling	4	4
+6.256635	7.716320	jackhammer	4	4
+7.033564	9.964706	engine_idling	4	4

@@ -1,0 +1,4 @@
+3.363057	4.356688	gun_shot	4	4
+5.350318	6.936306	children_playing	4	4
+7.044586	10.000000	engine_idling	3	4
+8.050955	9.388535	drilling	4	4

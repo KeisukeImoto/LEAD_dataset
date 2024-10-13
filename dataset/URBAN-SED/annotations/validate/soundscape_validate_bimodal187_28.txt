@@ -1,0 +1,3 @@
+2.122333	4.362574	children_playing	5	5
+3.684606	6.683875	drilling	5	5
+5.497432	6.057492	jackhammer	5	5

@@ -1,0 +1,5 @@
+0.501969	1.092520	jackhammer	3	4
+1.112205	3.415354	children_playing	3	4
+3.799213	5.698819	air_conditioner	4	4
+6.358268	6.919291	gun_shot	4	4
+7.047244	10.000000	drilling	4	4

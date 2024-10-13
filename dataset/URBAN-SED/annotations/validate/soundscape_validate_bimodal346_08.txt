@@ -1,0 +1,5 @@
+0.777561	0.974411	dog_bark	4	4
+1.732287	1.998036	dog_bark	4	4
+2.017721	5.413397	air_conditioner	4	4
+2.037406	2.726384	children_playing	4	4
+6.181115	10.000021	engine_idling	4	4

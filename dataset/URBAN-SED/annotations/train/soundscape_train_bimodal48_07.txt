@@ -1,0 +1,5 @@
+1.267516	4.267516	engine_idling	4	4
+2.694268	4.210191	gun_shot	3	3
+4.299363	6.375796	air_conditioner	4	4
+6.662420	8.216561	engine_idling	3	4
+8.216561	10.000000	dog_bark	4	4

@@ -1,0 +1,4 @@
+3.358824	4.347059	gun_shot	5	5
+5.403178	10.000000	children_playing	5	5
+7.094118	10.000000	air_conditioner	5	5
+8.104768	9.411418	drilling	5	5

@@ -1,0 +1,5 @@
+1.365509	2.636845	engine_idling	4	4
+2.630959	4.849912	drilling	4	4
+4.926427	5.826957	engine_idling	4	4
+6.286051	8.740436	car_horn	3	4
+6.768687	6.904061	jackhammer	4	4

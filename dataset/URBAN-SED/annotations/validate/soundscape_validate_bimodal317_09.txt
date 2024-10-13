@@ -1,0 +1,5 @@
+1.100650	1.665689	car_horn	4	4
+3.054744	3.761044	dog_bark	4	4
+4.785178	7.157166	children_playing	4	4
+4.785178	7.157166	air_conditioner	4	4
+7.157166	10.000021	jackhammer	4	4

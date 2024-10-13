@@ -1,0 +1,5 @@
+4.286624	7.210191	jackhammer	5	5
+4.724450	7.106616	engine_idling	5	5
+7.178344	8.471338	siren	5	5
+7.585825	7.851606	drilling	4	4
+8.615725	9.756368	air_conditioner	2	3

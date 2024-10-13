@@ -1,0 +1,5 @@
+0.829900	2.689818	street_music	4	4
+3.602119	4.749853	children_playing	4	4
+4.749853	5.685697	street_music	4	4
+5.662154	8.310771	drilling	4	4
+6.768687	10.000000	car_horn	4	4

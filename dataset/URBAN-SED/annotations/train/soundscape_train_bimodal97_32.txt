@@ -1,0 +1,5 @@
+0.862196	5.268976	engine_idling	4	4
+3.596168	4.863670	drilling	4	4
+5.246868	5.571113	gun_shot	3	4
+5.549005	5.696389	air_conditioner	4	4
+6.160648	8.533530	children_playing	4	5
