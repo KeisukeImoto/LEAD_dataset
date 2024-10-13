@@ -42,5 +42,8 @@ URBAN-SED: https://urbansed.weebly.com/
 
 ##
 
+[1]  Naoki Koga, Yoshiaki Bando, and Keisuke Imoto, “LEAD Dataset: How Can Labels for Sound Event Detection Vary Depending on Annotators?," Proc. Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), pp. xxx-xxx, 2024. (Accepted)  
 [2]  A. Mesaros, T. Heittola, and T. Virtanen, “TUT Database for Acoustic Scene Classification and Sound Event Detection," Proc. European Signal Processing Conference (EUSIPCO), pp. 1128-1132.  
 [3]  A. Mesaros, T. Heittola, A. Diment, B. Elizalde, A. Shah, B. Raj, and T. Virtanen, “DCASE 2017 challenge setup: Tasks, datasets and baseline system,” Proc. Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE) Workshop, pp. 85-92, 2017.
+[4]  J. Salamon, C. Jacoby, and J. P. Bello, “A dataset and taxonomy for urban sound research,” Proc. ACM International Conference on Multimedia (ACMMM), no. 4, pp. 1041–1044, 2014.
+
