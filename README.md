@@ -40,6 +40,21 @@ TUT Acoustic Scenes 2016, Development dataset: https://zenodo.org/records/45739
 TUT Acoustic Scenes 2016, Evaluation dataset: https://zenodo.org/records/165995  
 URBAN-SED: https://urbansed.weebly.com/
 
+## Citation
+```
+@article{Koga_APSIPA2024_01,
+  author={Naoki Koga and Yoshiaki Bando and Keisuke Imoto},
+  title={LEAD Dataset: How Can Labels for Sound Event Detection Vary Depending on Annotators?},
+  journal={Proc. Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)}
+  year=2024,
+  pages={xxx--xxx},
+}
+```
+
+## Acknowledgment
+
+This work was supported by JSPS KAKENHI Grant Numbers 22H03639 and 23K16908.
+
 ##
 
 [1]  Naoki Koga, Yoshiaki Bando, and Keisuke Imoto, “LEAD Dataset: How Can Labels for Sound Event Detection Vary Depending on Annotators?," Proc. Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), pp. xxx-xxx, 2024. (Accepted)  
