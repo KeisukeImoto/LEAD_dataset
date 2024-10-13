@@ -20,11 +20,11 @@ The annotators were instructed to consider sound events occurring at intervals o
 The annotations of the LEAD dataset are organized in the same tsv format as those of TUT Sound Events 2016/2017 and TUT Acoustic Scenes 2016, except for the confidence scores (CSs) to the sound event class and the onset/offset of each sound event instance, as follows.
 
 ```
-event_start_time	event_end_time	event_label	confidence score for selecting sound events  confidence score for providing onset/offset
-0.619375  12.304331  car  4  3
-1.671731  224.798167  bird singing  5  4
-3.926606  5.889908  (object) impact  3  3
-7.616967  44.334651  people walking  4  4
+event_start_time	event_end_time	event_label	     CS for selecting sound events  CS for providing onset/offset
+0.619375          12.304331       car              4                              3
+1.671731          224.798167      bird singing     5                              4
+3.926606          5.889908        (object) impact  3                              3
+7.616967          44.334651       people walking   4                              4
 ```
 
 Note that sound files of the TUT Sound Events 2016/2017 and TUT Acoustic Scenes 2016/2017 are not included in this metadata. Please download them from the DCASE Challenge Web page (or directly Zenodo).
