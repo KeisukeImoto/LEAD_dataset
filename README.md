@@ -1,5 +1,9 @@
 # LEAD dataset
 
+## What is LEAD dataset?
+The Lead dataset contains strong labels for sound events, in which each clip has 20 different annotations.
+The LEAD dataset allows us to investigate how strong labels vary from annotator to annotator and consider SED models that are robust to the variation of strong labels.
+The sound clips for the LEAD dataset are selected from all of TUT Sound Events 2016/2017, parts of TUT Acoustic Scenes 2016, and URBAN-SED. 
 
 ## What are TUT Sound Events 2016/2017 & TUT Acoustic Scenes 2016/2017?
 
