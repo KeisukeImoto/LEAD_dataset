@@ -32,10 +32,13 @@ Note that sound files of the TUT Sound Events 2016/2017, TUT Acoustic Scenes 201
 
 ## Download link for audio data of TUT Sound Events 2016/2017, TUT Acoustic Scenes 2016, and URBAN-SED
 
-TUT Sound Events 2016 Development Set: https://zenodo.org/records/45759
-
-
-
+TUT Sound Events 2016, Development dataset: https://zenodo.org/records/45759
+TUT Sound Events 2016, Evaluation dataset: https://zenodo.org/records/996424
+TUT Sound Events 2017, Development dataset: https://zenodo.org/records/400516
+TUT Sound Events 2017, Evaluation dataset: https://zenodo.org/records/1040179
+TUT Acoustic Scenes 2016, Development dataset: https://zenodo.org/records/45739
+TUT Acoustic Scenes 2016, Evaluation dataset: https://zenodo.org/records/165995
+URBAN-SED: https://urbansed.weebly.com/
 
 ##
 
