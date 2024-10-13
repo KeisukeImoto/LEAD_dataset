@@ -1,34 +1,42 @@
 # LEAD dataset
 
-## What is LEAD dataset?
+## What is LEAD dataset [1]?
 The Lead dataset contains strong labels for sound events, in which each clip has 20 different annotations.
 The LEAD dataset allows us to investigate how strong labels vary from annotator to annotator and consider SED models that are robust to the variation of strong labels.
 The sound clips for the LEAD dataset are selected from all of TUT Sound Events 2016/2017, parts of TUT Acoustic Scenes 2016, and URBAN-SED. 
 
-## What are TUT Sound Events 2016/2017 & TUT Acoustic Scenes 2016/2017?
-
-TUT Sound Events 2016/2017 & Acoustic Scenes 2016/2017 are environmental sound datasets for SED and ASC, which were originally recorded by Tampere University, Audio Research Group [1] and [2]. 
-
 ## Dataset discription
 
-This dataset contains hogehoge. 
+The dataset consists of strong labels assigned to sounds in TUT Sound Events 2016/2017 [2][3], a part of TUT Acoustic Scenes 2016 [2], and a part of URBAN-SED [4]. 
+For TUT Sound Events 2016/2017, we used all sound clips, which includes 2.9 h of sounds (47 files), whereas for TUT Acoustic Scenes 2016, we used a subset that includes all 15 acoustic scenes, which contains 2.6 h of sounds (314 files). For URBAN-SED, we used 0.17 h of sounds (60 files).
+For each sound clip, 20 annotators assigned sound event labels and gave their onset/offset.
+For TUT Sound Events 2016/2017 and TUT Acoustic Scenes 2016, we provided 20 candidate event labels for each acoustic scene, and the annotators selected the most suitable event labels from the candidates and then gave onsets/offsets. 
+The annotators also assigned two confidence scores: one is the confidence score for selecting the type of sound event and the other is for providing the onset and offset of the sound event.
+These confidence scores are attributed to each sound event instance. 
+We set the confidence score on a five-point scale ranging from 1 (very unconfident) to 5 (very confident).
+The annotators were asked to listen to an entire sound clip at least once during the annotation and to refer to a waveform plot and/or spectrogram if necessary.
+The annotators were instructed to consider sound events occurring at intervals of more than 1 s as different sound events.
 
+The annotations of the LEAD dataset are organized in the same tsv format as those of TUT Sound Events 2016/2017 and TUT Acoustic Scenes 2016, except for the confidence scores (CSs) to the sound event class and the onset/offset of each sound event instance, as follows.
 
-The meta data has almost same structure with that of TUT Sound Events/Acoustic Scenes as follows.
 ```
-path	scene_label	event_start_time	event_end_time	event_label
-TUT-sound-events-2017-development/audio/street/a124.wav	city_center	0.0	4.037666	people speaking
-TUT-sound-events-2017-development/audio/street/a124.wav	city_center	0.0	21.850174	large vehicle
-TUT-sound-events-2017-development/audio/street/a124.wav	city_center	1.772634	4.222315	people walking
-...
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	223.102353	226.805399	people walking
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	227.484838	228.455759	bird singing
-TUT-sound-events-2016-development/audio/residential_area/b009.wav	residential_area	228.468075	230.689081	bird singing
+event_start_time	event_end_time	event_label	confidence score for selecting sound events  confidence score for providing onset/offset
+0.619375  12.304331  car  4  3
+1.671731  224.798167  bird singing  5  4
+3.926606  5.889908  (object) impact  3  3
+7.616967  44.334651  people walking  4  4
 ```
 
 Note that sound files of the TUT Sound Events 2016/2017 and TUT Acoustic Scenes 2016/2017 are not included in this metadata. Please download them from the DCASE Challenge Web page (or directly Zenodo).
 
+
+## What are TUT Sound Events 2016/2017 & TUT Acoustic Scenes 2016/2017?
+
+TUT Sound Events 2016/2017 & Acoustic Scenes 2016/2017 are environmental sound datasets for SED and ASC, which were originally recorded by Tampere University, Audio Research Group [2] and [3]. 
+
+
+
 ##
 
-[1]  A. Mesaros, T. Heittola, and T. Virtanen, “TUT Database for Acoustic Scene Classification and Sound Event Detection," Proc. European Signal Processing Conference (EUSIPCO), pp. 1128-1132.  
-[2]  A. Mesaros, T. Heittola, A. Diment, B. Elizalde, A. Shah, B. Raj, and T. Virtanen, “DCASE 2017 challenge setup: Tasks, datasets and baseline system,” Proc. Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE) Workshop, pp. 85-92, 2017.
+[2]  A. Mesaros, T. Heittola, and T. Virtanen, “TUT Database for Acoustic Scene Classification and Sound Event Detection," Proc. European Signal Processing Conference (EUSIPCO), pp. 1128-1132.  
+[3]  A. Mesaros, T. Heittola, A. Diment, B. Elizalde, A. Shah, B. Raj, and T. Virtanen, “DCASE 2017 challenge setup: Tasks, datasets and baseline system,” Proc. Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE) Workshop, pp. 85-92, 2017.
