@@ -47,7 +47,7 @@ URBAN-SED: https://urbansed.weebly.com/
   title={LEAD Dataset: How Can Labels for Sound Event Detection Vary Depending on Annotators?},
   journal={Proc. Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)}
   year=2024,
-  pages={xxx--xxx},
+  pages={1--6},
 }
 ```
 
